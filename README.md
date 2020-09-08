@@ -1,5 +1,6 @@
 ### Hi there 👋
  
+Full-stack web developer based in Rialto, California. Extensive experience working with LAMP stack, producing high-quality, responsive and cross-browser compatible web apps for businesses. Experienced with Front-end web development and technologies like JavaScript (ES6), PHP, MySQL, Vagrant, Node, Nginx, Bash and Git. 
 
 <!--
 **lloan/lloan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
