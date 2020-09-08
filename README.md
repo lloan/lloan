@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<scrip>alert('hello');</script>
+<script>alert('hello');</script>
 
 <!--
 **lloan/lloan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
