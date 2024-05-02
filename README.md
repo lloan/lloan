@@ -19,6 +19,9 @@ My name is Lloan Alas, and I am a seasoned software engineer with a passion for 
 - PhD, IST, concentration in IT Strategy & Innovation. (on-hold)
 
 ### Interviewing
+
+When interviewing, the following are true: 
+
 -  I don't do whiteboard/leetcode style interviews. I prefer to show you my work.
 -  My experience should speak for itself. I'm happy to discuss my work and how I can contribute to your team.
 -  I'm looking for a team that values diversity and inclusion. I'm neurodivergent and I'm looking for a team that values different perspectives.
