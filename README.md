@@ -3,7 +3,7 @@
 My name is Lloan Alas, and I am a seasoned software engineer with a passion for web development. I have over a decade of experience in the field and I have spent most of it on web technologies. My latest position was at Mozilla, as a member of the Security & Privacy products team. My contributions at Mozilla are primarily centered around Firefox Relay, both the website and the web extension—a paramount privacy tool that enables users to create distinct email and phone masks. My passion is in designing swift, responsive, and universally accessible web applications, utilizing cutting-edge technologies and upholding industry best practices.
 
 - 🔭 Open to frontend & WP Fullstack opportunities
-- 🌱 I’m currently learning about **Lua and Roblox Game Development**
+- 🌱 I’m currently learning about **AWS Services**
 - 🎉 Recently learned basics of **Rust**
 - 👯 I’m looking to collaborate on open source projects 
 
